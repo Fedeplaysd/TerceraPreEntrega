@@ -1,0 +1,109 @@
+[{
+    "id": 1,
+    "tipo": "Tarjeta Grafica",
+    "nombre": "NVIDA RTX 3080 Ti 12GB",
+    "precio": 1400000,
+    "foto": "./media/rtx3080ti.jpg"
+}, {
+    "id": 2,
+    "tipo": "Tarjeta Grafica",
+    "nombre": "NVIDA RTX 4060 8GB",
+    "precio": 1200000,
+    "foto": "./media/RTX4060.jpg"
+}, {
+    "id": 3,
+    "tipo": "Tarjeta Grafica",
+    "nombre": "NVIDA RTX 2060 8GB",
+    "precio": 650000,
+    "foto": "./media/RTX2060.jpg"
+}, {
+    "id": 4,
+    "tipo": "Tarjeta Grafica",
+    "nombre": "NVIDA RTX 2080 Ti 6GB",
+    "precio": 700000,
+    "foto": "./media/RTX2080.jpg"
+}, {
+    "id": 5,
+    "tipo": "Tarjeta Grafica",
+    "nombre": "NVIDA RTX 3060 Ti 10GB",
+    "precio": 950000,
+    "foto": "./media/rtx3060.jpg"
+}, {
+    "id": 6,
+    "tipo": "Procesador",
+    "nombre": "Intel i7 12400F",
+    "precio": 500000,
+    "foto": "./media/intelI7.jpg"
+}, {
+    "id": 7,
+    "tipo": "Procesador",
+    "nombre": "Intel i5 12400F C/G",
+    "precio": 352000,
+    "foto": "./media/intelI5.jpg"
+}, {
+    "id": 8,
+    "tipo": "Procesador",
+    "nombre": "AMD Ryzen 9 7600K",
+    "precio": 793000,
+    "foto": "./media/ryzen9.jpg"
+}, {
+    "id": 9,
+    "tipo": "Procesador",
+    "nombre": "AMD Ryzen 7 5800DX3",
+    "precio": 750600,
+    "foto": "./media/ryzen7.jpg"
+}, {
+    "id": 10,
+    "tipo": "Gabinete",
+    "nombre": "MSI Alure 7500 4FAN",
+    "precio": 120000,
+    "foto": "./media/GabineteMSI.jpg"
+}, {
+    "id": 11,
+    "tipo": "Gabinete",
+    "nombre": "ThermalTake Leopard 6FAN",
+    "precio": 150600,
+    "foto": "./media/GabineteThermaltake.jpg"
+}, {
+    "id": 12,
+    "tipo": "Fuente",
+    "nombre": "Red Dragon 750W 70+ Bronce",
+    "precio": 75600,
+    "foto": "./media/FuenteRedDragon.jpg"
+}, {
+    "id": 13,
+    "tipo": "Fuente",
+    "nombre": "ThermalTake Ligthning 850W 80+ Bronce",
+    "precio": 92530,
+    "foto": "./media/FuenteThermalTake.jpg"
+}, {
+    "id": 14,
+    "tipo": "Placa Madre",
+    "nombre": "AsRock 7631F DDR6",
+    "precio": 235950,
+    "foto": "./media/placaMadreASROCK.jpg"
+}, {
+    "id": 15,
+    "tipo": "Accesorio",
+    "nombre": "Teclado Red Dragon ARGB",
+    "precio": 56950,
+    "foto": "./media/TecladoRedDRagon.jpg"
+}, {
+    "id": 16,
+    "tipo": "Accesorio",
+    "nombre": "Mouse Red Dragon ARGB Pro Gaming",
+    "precio": 153800,
+    "foto": "./media/mouseRedDragon.jpg"
+}, {
+    "id": 17,
+    "tipo": "Accesorio",
+    "nombre": "Pad Red Dragon AutoFinish",
+    "precio": 45930,
+    "foto": "./media/padRedDragon.jpg"
+}, {
+    "id": 18,
+    "tipo": "Accesorio",
+    "nombre": "Microfono SnowBall GamingPro",
+    "precio": 80999,
+    "foto": "./media/microSnowBall.jpg"
+}]
